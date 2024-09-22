@@ -1,5 +1,3 @@
-
-```markdown
 # ✨ Flutter Login App 📱
 
 Este projeto é uma aplicação **simples** em Flutter que implementa uma tela de login com navegação para uma página home. **Não há lógica de autenticação**, o foco aqui é testar a criação e navegação entre telas no Flutter.
@@ -55,15 +53,6 @@ O projeto contém duas telas principais:
 4. Execute o projeto:
    ```bash
    flutter run
-   ```
-
-## 📸 Capturas de Tela
-
-### Tela de Login
-![Login Screen](assets/login_screenshot.png)
-
-### Tela Home
-![Home Screen](assets/home_screenshot.png)
 
 ## 📂 Estrutura de Arquivos
 
